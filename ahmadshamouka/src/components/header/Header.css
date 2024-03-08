@@ -1,5 +1,18 @@
 .header-container {
+  padding: 0 10%;
   height: 50px;
   width: 100%;
   border-bottom: rgba(255, 255, 255, 0.164) solid 0.1px;
+}
+
+.header-container a {
+  font-size: 18px;
+  margin-left: 8px;
+}
+.item:hover {
+  cursor: pointer;
+}
+.item-header {
+  align-items: center;
+  width: 45%;
 }
