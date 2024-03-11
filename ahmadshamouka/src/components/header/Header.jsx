@@ -21,7 +21,7 @@ const Header = () => {
         <a className="item flex center">
           <UilBracketsCurly size="25" />
 
-          <span>Skills</span>
+          <span>Skill</span>
         </a>
         <a className="item flex center">
           <UilCube size="25" />
